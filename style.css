@@ -2,13 +2,16 @@
 	
 border:2px solid black;
 }
-.blue{
-	border: 0px solid red;
+.green{
+	background: grren;
 }
-grey{
+.grey{
 	background: grey;
 }
-#pink{
- background: grey;
+.orange{
+ background: orange;
+}
+.yellow{
+	background: yellow;
 }
 
