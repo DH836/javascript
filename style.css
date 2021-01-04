@@ -1,29 +1,14 @@
 .container{
 	
-	background-color: greenyellow;
+border:2px solid black;
 }
-.row{
+.blue{
 	border: 0px solid red;
 }
-body{
+grey{
 	background: grey;
 }
-.col{
-	border: 0px solid green;
+#pink{
+ background: grey;
 }
-#header{
-	background: orange;
-}
-#menu{
-	background: white;
 
-}
-#content{
-	background: grey;
-}
-#sidebar{
-	background: yellow;
-}
-#web{
-	background: green;
-}
