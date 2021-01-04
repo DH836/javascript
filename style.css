@@ -3,13 +3,13 @@
 border:2px solid black;
 }
 .row{
-	border: 2px solid red;
+	border: 0px solid red;
 }
 .col{
 	border: 2px solid blue;
 }
 .green{
-	background: grren;
+	background: green;
 }
 .grey{
 	background: grey;
